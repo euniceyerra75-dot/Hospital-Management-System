@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Rahul Sharma",
+    "specialization": "Cardiology",
+    "qualification": "MBBS, MD",
+    "experience": 8,
+    "contact": "9876543210",
+    "availability": false
+  },
+  {
+    "id": 2,
+    "name": "Dr. Priya Reddy",
+    "specialization": "Neurology",
+    "qualification": "MBBS, DM",
+    "experience": 6,
+    "contact": "9876543211",
+    "availability": true
+  },
+  {
+    "id": 3,
+    "name": "Dr. Arjun Kumar",
+    "specialization": "Dermatology",
+    "qualification": "MBBS, MD",
+    "experience": 5,
+    "contact": "9876543212",
+    "availability": false
+  }
+]
